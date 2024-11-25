@@ -2,3 +2,4 @@ git clone https://github.com/cindydgo/git-begins.git
 git add .
 git commit -m
 git push -u origin main
+git pull
